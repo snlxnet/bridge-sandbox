@@ -1,4 +1,10 @@
-# Brdige Sandbox
-Forgot that I actually DO need a last commit for anything to work...
+---
+post: "[[snlx.net]]"
+updated: 2026-01-05
+layout: base.njk
+created: 2026-01-05
+---
+This is an example of a public note
 
-This is a temporary repository for testing [bridge](https://github.com/snlxnet/bridge), a tool I'm working on that's going to publish my digital garden
+![[2024-07-28-22-26-19-836.jpg]]
+![[2024-07-31-16-14-12-830.jpg]]
