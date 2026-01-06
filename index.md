@@ -4,7 +4,7 @@ updated: 2026-01-06
 layout: base.njk
 created: 2026-01-05
 ---
-Syncing to the actual github repo...
+Updates are now incremental and happen almost instantly
 
 This is an example of a public note
 
