@@ -1,11 +1,10 @@
 ---
 post: "[snlx.net](/snlx.net)"
-updated: 2026-01-06
+updated: 2026-01-10T14:46:45+03:00
 layout: base.njk
 created: 2026-01-05
 ---
 Updates are now incremental and happen almost instantly
-
 
 This is an example of a public note
 
